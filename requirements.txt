@@ -1,0 +1,8 @@
+All the necessaries libraries needed are listed below:
+> Pandas
+> Numpy
+> Matplotlib
+> Seaborn
+> Sklearn
+
+N/B: Installing these libraries are not needed if one is working on Jupyter or Google Colab.
